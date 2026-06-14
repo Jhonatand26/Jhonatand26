@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Jhonatan%20D.&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Engineer%20%7C%20Backend%20%7C%20MLOps&descAlignY=60&descSize=20&descColor=c4b5fd" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0c1f3a,100:0e2a4a&height=220&section=header&text=Jhonatan%20D.&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Engineer%20%7C%20Backend%20%7C%20MLOps&descAlignY=60&descSize=20&descColor=93c5fd" alt="Header Banner"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+and+Data+Engineer;Backend+Developer;MLOps+Practitioner;Clean+Code+Advocate;Always+Building%2C+Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=AI+and+Data+Engineer;Backend+Developer;MLOps+Practitioner;Clean+Code+Advocate;Always+Building%2C+Always+Learning)](https://git.io/typing-svg)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Jhonatand26&color=7c3aed&style=flat-square&label=Visitas+al+perfil)](https://github.com/Jhonatand26)
-[![GitHub followers](https://img.shields.io/github/followers/Jhonatand26?label=Seguidores&style=flat-square&color=7c3aed&labelColor=0d1117)](https://github.com/Jhonatand26)
+[![Profile Views](https://komarev.com/ghpvc/?username=Jhonatand26&color=0369a1&style=flat-square&label=Visitas+al+perfil)](https://github.com/Jhonatand26)
+[![GitHub followers](https://img.shields.io/github/followers/Jhonatand26?label=Seguidores&style=flat-square&color=0369a1&labelColor=0d1117)](https://github.com/Jhonatand26)
 
 </div>
 
@@ -82,15 +82,15 @@ Construyo sistemas donde la arquitectura no es una ocurrencia de último momento
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonatand26&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonatand26&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatand26&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatand26&layout=compact&langs_count=8&theme=nord&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jhonatand26&theme=midnight-purple&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jhonatand26&theme=nord&hide_border=true&background=0D1117&ring=2563eb&fire=60a5fa&currStreakLabel=64748b)](https://git.io/streak-stats)
 
 </div>
 
@@ -121,6 +121,6 @@ Construyo sistemas donde la arquitectura no es una ocurrencia de último momento
 
 *"El código limpio no es un lujo — es la única forma de mantener velocidad a largo plazo."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0c1f3a,100:0e2a4a&height=100&section=footer" alt="Footer"/>
 
 </div>
