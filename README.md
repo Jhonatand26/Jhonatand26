@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0c1f3a,100:0e2a4a&height=220&section=header&text=Jhonatan%20D.&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Engineer%20%7C%20Backend%20%7C%20MLOps&descAlignY=60&descSize=20&descColor=93c5fd" alt="Header Banner"/>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=AI+and+Data+Engineer;Backend+Developer;MLOps+Practitioner;Clean+Code+Advocate;Always+Building%2C+Always+Learning)](https://git.io/typing-svg)
 
@@ -20,7 +20,7 @@ Soy **AI & Data Engineer** con sólida base en backend y fuertes prácticas de *
 Construyo sistemas donde la arquitectura no es una ocurrencia de último momento:
 
 ```text
-⬡  Arquitectura     → Bajo acoplamiento · Alta cohesión · SRP innegociable
+⬡  Arquitectura     → Bajo acoplamiento · Alta cohesión · SRP innegociable · Diseño orientado a dominio · Spec-Driven Development · Arquitectura hexagonal · Event-Driven
 ⬡  Contratos        → Pydantic · TypedDict · Dataclass — nunca acuerdos verbales
 ⬡  Configuración    → Zero hardcoding · Variables de entorno · .env.example siempre
 ⬡  Trazabilidad     → MLflow desde el día 1 · El modelo es dueño de sus métricas
@@ -98,10 +98,12 @@ Construyo sistemas donde la arquitectura no es una ocurrencia de último momento
 
 ## Actualmente
 
-- Cursando **Especialización en Inteligencia Artificial** — Data Science track
-- Explorando **MLOps**: pipelines de entrenamiento, model registry y serving en producción
+- Desarrollando plataforma agentica para integración en productos desplegados para el ecosistema de IndiGO Technologies, contribuyendo a la salud desde la tecnología.
+- Finalicé mi **Especialización en Inteligencia Artificial** — Data Science track
+- Explorando **MLOps**: pipelines de entrenamiento, model registry y serving en producción.
 - Construyendo APIs robustas con **FastAPI + Python (UV) + Docker + CI/CD**
 - Aprendiendo sobre arquitecturas de **LLMs** y sistemas de embeddings
+
 
 ---
 
@@ -109,9 +111,9 @@ Construyo sistemas donde la arquitectura no es una ocurrencia de último momento
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatand26/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhonatand26)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatanrenjifo@gmail.com)
 
 </div>
 
