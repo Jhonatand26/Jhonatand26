@@ -15,7 +15,7 @@
 
 ## Sobre mí
 
-Soy **AI & Data Engineer** con sólida base en backend y fuertes prácticas de **DevOps/MLOps**. Actualmente cursando una **Especialización en Inteligencia Artificial**, enfocándome en llevar modelos de ML a producción de forma robusta, trazable y escalable.
+Soy **AI & Data Engineer** con sólida base en backend y fuertes prácticas de **DevOps/MLOps**. Actualmente finalicé una **Especialización en Inteligencia Artificial**, enfocándome en llevar modelos de ML y Deep Learning, ecosistemas agénticos,Sistemas operativos Agenticos a producción de forma robusta, trazable y escalable.
 
 Construyo sistemas donde la arquitectura no es una ocurrencia de último momento:
 
@@ -121,7 +121,7 @@ Construyo sistemas donde la arquitectura no es una ocurrencia de último momento
 
 <div align="center">
 
-*"El código limpio no es un lujo — es la única forma de mantener velocidad a largo plazo."*
+*"El código limpio no es un luj, para mí es la única forma de mantener velocidad a largo plazo."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0c1f3a,100:0e2a4a&height=100&section=footer" alt="Footer"/>
 
