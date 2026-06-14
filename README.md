@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:040810,50:0A2744,100:040810&text=Building%20a%20better%20future!&fontColor=BAE6FD&textBg=false&desc=Through%20Data%20And%20AI&descAlign=50&descAlignY=72&descSize=25)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=AI+and+Data+Engineer;Backend+Developer;MLOps+Practitioner;Clean+Code+Advocate;Always+Building%2C+Always+Learning)](https://git.io/typing-svg)
 
